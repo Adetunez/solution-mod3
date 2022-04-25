@@ -1,0 +1,47 @@
+/*.navbar-toggler{
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin: 8px 15px 8px 0;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+*/
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a{
+    text-align: center;
+}
+#nav-list a:hover{
+    background-color: #E7E7E7;
+}
+.container button.navbar-toggler{
+    border: 1px solid black;
+}
+.header h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.border{
+    margin: 40px 20px 20px 20px;
+    height: 60vh;
+}
+h3{
+    text-align: center;
+    padding-top: 10px;
+}
+p{
+    padding: 0 20px;
+    text-align: justify;
+}
+.bordertwo{
+    margin: 10px 20px;
+    height: 60vh;
+}
+.borderthree{
+    margin: 20px 20px;
+    height: 60vh;
+}
